@@ -1,6 +1,7 @@
 # ManiJambakula-NHSBSA
 NHS Job Search functionality
-**Pre-requisites: **
+
+**Pre-requisites:**
 Maven & Java should be installed
 Environment variables should be updated with JAVA_HOME, MAVEN_HOME & Path correctly
 
