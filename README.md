@@ -2,8 +2,8 @@
 NHS Job Search functionality
 
 **Pre-requisites:**
-Maven & Java should be installed
-Environment variables should be updated with JAVA_HOME, MAVEN_HOME & Path correctly
+1. Maven & Java should be installed
+2. Environment variables should be updated with JAVA_HOME, MAVEN_HOME & Path correctly
 
 **Steps to run the program from command line:**
 1. Open cmd
